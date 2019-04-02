@@ -6,3 +6,4 @@ Legger til en linje
 
 Legger vi til en annen linje
 
+Legg til en linje til
